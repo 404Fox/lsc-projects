@@ -1,0 +1,4 @@
+﻿  RpsGame.cpp
+C:\Users\404Fox\source\repos\LoneStarApp\RpsGame.cpp(220,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\404Fox\source\repos\LoneStarApp\RpsGame.cpp(20): warning C4715: 'rps::RpsGame::getOptionText': not all control paths return a value
+  MonthlySalesTax.vcxproj -> C:\Users\404Fox\source\repos\LoneStarApp\x64\Debug\LoneStarApp.exe

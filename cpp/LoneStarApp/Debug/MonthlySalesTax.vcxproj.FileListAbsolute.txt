@@ -1,0 +1,4 @@
+C:\Users\404Fox\source\repos\MonthlySalesTax\Debug\LoneStarApp.exe
+C:\Users\404Fox\source\repos\MonthlySalesTax\Debug\LoneStarApp.pdb
+C:\Users\404Fox\source\repos\LoneStarApp\Debug\LoneStarApp.exe
+C:\Users\404Fox\source\repos\LoneStarApp\Debug\LoneStarApp.pdb
