@@ -1,0 +1,9 @@
+C:\Users\404Fox\source\repos\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\404Fox\source\repos\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\404Fox\source\repos\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\404Fox\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\404Fox\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.CurrencyConverter.resources
+C:\Users\404Fox\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\404Fox\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\404Fox\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\404Fox\source\repos\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

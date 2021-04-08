@@ -1,0 +1,10 @@
+C:\Users\404Fox\source\repos\WordGuess\obj\Debug\WordGuess.csprojAssemblyReference.cache
+C:\Users\404Fox\source\repos\WordGuess\obj\Debug\WordGuess.Properties.Resources.resources
+C:\Users\404Fox\source\repos\WordGuess\obj\Debug\WordGuess.csproj.GenerateResource.cache
+C:\Users\404Fox\source\repos\WordGuess\obj\Debug\WordGuess.csproj.CoreCompileInputs.cache
+C:\Users\404Fox\source\repos\WordGuess\bin\Debug\WordGuess.exe.config
+C:\Users\404Fox\source\repos\WordGuess\bin\Debug\WordGuess.exe
+C:\Users\404Fox\source\repos\WordGuess\bin\Debug\WordGuess.pdb
+C:\Users\404Fox\source\repos\WordGuess\obj\Debug\WordGuess.exe
+C:\Users\404Fox\source\repos\WordGuess\obj\Debug\WordGuess.pdb
+C:\Users\404Fox\source\repos\WordGuess\obj\Debug\WordGuess.WordGuessForm.resources

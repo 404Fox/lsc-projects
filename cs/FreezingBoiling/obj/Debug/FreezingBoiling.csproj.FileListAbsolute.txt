@@ -1,0 +1,10 @@
+C:\Users\404Fox\source\repos\FreezingBoiling\bin\Debug\FreezingBoiling.exe.config
+C:\Users\404Fox\source\repos\FreezingBoiling\bin\Debug\FreezingBoiling.exe
+C:\Users\404Fox\source\repos\FreezingBoiling\bin\Debug\FreezingBoiling.pdb
+C:\Users\404Fox\source\repos\FreezingBoiling\obj\Debug\FreezingBoiling.csprojAssemblyReference.cache
+C:\Users\404Fox\source\repos\FreezingBoiling\obj\Debug\FreezingBoiling.Form1.resources
+C:\Users\404Fox\source\repos\FreezingBoiling\obj\Debug\FreezingBoiling.Properties.Resources.resources
+C:\Users\404Fox\source\repos\FreezingBoiling\obj\Debug\FreezingBoiling.csproj.GenerateResource.cache
+C:\Users\404Fox\source\repos\FreezingBoiling\obj\Debug\FreezingBoiling.csproj.CoreCompileInputs.cache
+C:\Users\404Fox\source\repos\FreezingBoiling\obj\Debug\FreezingBoiling.exe
+C:\Users\404Fox\source\repos\FreezingBoiling\obj\Debug\FreezingBoiling.pdb

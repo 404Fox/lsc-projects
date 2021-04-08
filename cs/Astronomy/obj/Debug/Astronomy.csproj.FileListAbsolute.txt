@@ -1,0 +1,11 @@
+C:\Users\404Fox\source\repos\Astronomy\bin\Debug\Astronomy.exe.config
+C:\Users\404Fox\source\repos\Astronomy\bin\Debug\Astronomy.exe
+C:\Users\404Fox\source\repos\Astronomy\bin\Debug\Astronomy.pdb
+C:\Users\404Fox\source\repos\Astronomy\obj\Debug\Astronomy.csprojAssemblyReference.cache
+C:\Users\404Fox\source\repos\Astronomy\obj\Debug\Astronomy.MainForm.resources
+C:\Users\404Fox\source\repos\Astronomy\obj\Debug\Astronomy.PlanetForm.resources
+C:\Users\404Fox\source\repos\Astronomy\obj\Debug\Astronomy.Properties.Resources.resources
+C:\Users\404Fox\source\repos\Astronomy\obj\Debug\Astronomy.csproj.GenerateResource.cache
+C:\Users\404Fox\source\repos\Astronomy\obj\Debug\Astronomy.csproj.CoreCompileInputs.cache
+C:\Users\404Fox\source\repos\Astronomy\obj\Debug\Astronomy.exe
+C:\Users\404Fox\source\repos\Astronomy\obj\Debug\Astronomy.pdb

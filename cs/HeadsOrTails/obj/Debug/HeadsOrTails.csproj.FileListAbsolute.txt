@@ -1,0 +1,9 @@
+C:\Users\404Fox\source\repos\HeadsOrTails\obj\Debug\HeadsOrTails.csprojAssemblyReference.cache
+C:\Users\404Fox\source\repos\HeadsOrTails\obj\Debug\HeadsOrTails.formHeadsOrTails.resources
+C:\Users\404Fox\source\repos\HeadsOrTails\obj\Debug\HeadsOrTails.Properties.Resources.resources
+C:\Users\404Fox\source\repos\HeadsOrTails\obj\Debug\HeadsOrTails.csproj.GenerateResource.cache
+C:\Users\404Fox\source\repos\HeadsOrTails\bin\Debug\HeadsOrTails.exe.config
+C:\Users\404Fox\source\repos\HeadsOrTails\bin\Debug\HeadsOrTails.exe
+C:\Users\404Fox\source\repos\HeadsOrTails\bin\Debug\HeadsOrTails.pdb
+C:\Users\404Fox\source\repos\HeadsOrTails\obj\Debug\HeadsOrTails.exe
+C:\Users\404Fox\source\repos\HeadsOrTails\obj\Debug\HeadsOrTails.pdb

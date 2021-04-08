@@ -1,0 +1,10 @@
+C:\Users\404Fox\source\repos\Celsius Fahrenheit Converter\bin\Debug\Celsius Fahrenheit Converter.exe.config
+C:\Users\404Fox\source\repos\Celsius Fahrenheit Converter\bin\Debug\Celsius Fahrenheit Converter.exe
+C:\Users\404Fox\source\repos\Celsius Fahrenheit Converter\bin\Debug\Celsius Fahrenheit Converter.pdb
+C:\Users\404Fox\source\repos\Celsius Fahrenheit Converter\obj\Debug\Celsius Fahrenheit Converter.csprojAssemblyReference.cache
+C:\Users\404Fox\source\repos\Celsius Fahrenheit Converter\obj\Debug\Celsius_Fahrenheit_Converter.TempConvForm.resources
+C:\Users\404Fox\source\repos\Celsius Fahrenheit Converter\obj\Debug\Celsius_Fahrenheit_Converter.Properties.Resources.resources
+C:\Users\404Fox\source\repos\Celsius Fahrenheit Converter\obj\Debug\Celsius Fahrenheit Converter.csproj.GenerateResource.cache
+C:\Users\404Fox\source\repos\Celsius Fahrenheit Converter\obj\Debug\Celsius Fahrenheit Converter.csproj.CoreCompileInputs.cache
+C:\Users\404Fox\source\repos\Celsius Fahrenheit Converter\obj\Debug\Celsius Fahrenheit Converter.exe
+C:\Users\404Fox\source\repos\Celsius Fahrenheit Converter\obj\Debug\Celsius Fahrenheit Converter.pdb
