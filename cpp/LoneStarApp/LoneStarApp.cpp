@@ -7,6 +7,9 @@
 #include "GuessGame.h"
 #include "Hospital.h"
 #include "RpsGame.h"
+#include "TicTacC.h"
+#include "GradeBook.h"
+#include "Lottery.h"
 
 //static const string BREAK_LINE = "-------------------------------------------------------------------";//Static value for consistency.
 
@@ -32,9 +35,10 @@ int main() {//Beginning of main() where the actual program begins.
         std::cout << "e.  Hotel Occupancy\n";
         std::cout << "f.  Play a number guessing game\n";
         std::cout << "g.  Calculate Hospital Bill\n";
-        std::cout << "h.  ... RPS\n";
-        //std::cout << "i.  ... \n";
-       // std::cout << "j.  ... \n";
+        std::cout << "h.  Rock Paper Scissors\n";
+        std::cout << "i.  Tic Tac Toe\n";
+        std::cout << "j.  Grade Book\n";
+        std::cout << "k.  Check the Winning Lottery Tickets\n";
         std::cout << "\nx.  Exit\n\n";
 
         std::cin >> inputLetter; //Takes the input letter used for switch for those listed options.
@@ -87,7 +91,21 @@ int main() {//Beginning of main() where the actual program begins.
             newGame.GameLoop(); //begins the game loop which is recursive.
             break;
         }
-
+        case 'i': {
+            ticTac::TicTacC ticGame = ticTac::TicTacC();
+            ticGame.playGame();
+            break;
+        }
+        case 'j': {
+            gb::GradeBook gradeBook = gb::GradeBook();
+            gradeBook.gradeBookMenu();
+            break;
+        }
+        case 'k': {
+            Lottery myLotto = Lottery();
+            myLotto.LotteryMenu();
+            break;
+        }
         case 'x': {
             ContinueLoop = false;//Exit the while loop. This will lead to return 0.
         }

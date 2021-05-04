@@ -45,6 +45,7 @@
     <UseDebugLibraries>true</UseDebugLibraries>
     <PlatformToolset>v142</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Static</UseOfMfc>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
@@ -142,6 +143,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -151,19 +153,31 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="GradeBook.cpp" />
     <ClCompile Include="LoneStarApp.cpp" />
+    <ClCompile Include="Lottery.cpp" />
     <ClCompile Include="RpsGame.cpp" />
+    <ClCompile Include="TicPlayer.cpp" />
+    <ClCompile Include="TicTacB.cpp" />
+    <ClCompile Include="TicTacC.cpp" />
+    <ClCompile Include="TicTacToeGame.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CalorieCalc.h" />
     <ClInclude Include="FreezeBoil.h" />
+    <ClInclude Include="GradeBook.h" />
     <ClInclude Include="GuessGame.h" />
     <ClInclude Include="Hospital.h" />
     <ClInclude Include="Hotel.h" />
+    <ClInclude Include="Lottery.h" />
     <ClInclude Include="LsSupport.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="RpsGame.h" />
     <ClInclude Include="SalesTaxMonth.h" />
+    <ClInclude Include="TicPlayer.h" />
+    <ClInclude Include="TicTacB.h" />
+    <ClInclude Include="TicTacC.h" />
+    <ClInclude Include="TicTacToeGame.h" />
     <ClInclude Include="WordGame.h" />
   </ItemGroup>
   <ItemGroup>
