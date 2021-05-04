@@ -1,1 +1,14 @@
 **/.vs
+cpp/LoneStarApp/x64/Debug/LoneStarApp.exe
+*.exe
+*.enc
+*.pdb
+*.obj
+*.recipe
+*.ilk
+*.tlog
+*.log
+*.txt
+*.res
+*.iobj
+*.ipdb
