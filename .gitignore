@@ -1,5 +1,5 @@
 **/.vs
-cpp/LoneStarApp/x64/Debug/LoneStarApp.exe
+**/x64
 *.exe
 *.enc
 *.pdb

@@ -1,2 +1,0 @@
-C:\Users\404Fox\source\repos\LoneStarApp\x64\Debug\LoneStarApp.exe
-C:\Users\404Fox\source\repos\LoneStarApp\x64\Debug\LoneStarApp.pdb
